@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nitish Kaushik | 4x Microsoft MVP | Content Creator
+## About Me
+Hi There, Nitish is a Solutions Architect and Content Creator. 
 
-<!--
-**nitish-kaushik/nitish-kaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learn From Nitish
+You can find my content on following channels
 
-Here are some ideas to get you started:
+- **💻 [WebGentle YouTube Channel](https://www.youtube.com/@webgentle)** :  Best Programming Tutorials
+- **💻 [Nitish Kaushik YouTube Channel](https://www.youtube.com/@nitish-kaushik)** : Best place to learn latest software development concepts
+- **📝 [Blog](https://nitishkaushik.com/)** : Blogs by Nitish Kaushik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Popular Playlists
+Here are the popular playlists to start your learning with
+
+- **[Asp.Net Core Web API with CLEAN Architecture](https://github.com/nitish-kaushik/aspnetcore-webapi-clean-architecture)**
+
