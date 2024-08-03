@@ -6,7 +6,7 @@ Hi There, Nitish is a Solutions Architect and Content Creator.
 You can find my content on following channels
 
 - **💻 [WebGentle YouTube Channel](https://www.youtube.com/@webgentle)** :  Best Programming Tutorials
-- **💻 [Nitish Kaushik YouTube Channel](https://www.youtube.com/@nitish-kaushik)** : Best place to learn latest software development concepts
+- **💻 [Nitish Kaushik YouTube Channel](https://www.youtube.com/@nitish.kaushik)** : Best place to learn latest software development concepts
 - **📝 [Blog](https://nitishkaushik.com/)** : Blogs by Nitish Kaushik
 
 ## Popular Playlists
